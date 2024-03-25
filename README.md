@@ -49,6 +49,9 @@ The Room Booking Desktop Application is a simple yet powerful tool for managing 
 
 3. Once logged in, you can create rooms, schedule meetings, and view existing bookings.
 
+## Screenshot
+![Room Booking App Screenshot](assets/img/screenshot.png)
+
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
